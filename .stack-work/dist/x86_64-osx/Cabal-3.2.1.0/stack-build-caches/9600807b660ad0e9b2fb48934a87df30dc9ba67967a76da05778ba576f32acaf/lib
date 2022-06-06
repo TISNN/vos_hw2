@@ -1,0 +1,16 @@
+/Users/xutianhao/Desktop/hw/src/Horn/Monad.hs:
+  hash: d1110245943e02fd585c690ddbb64c13e141f9396924140c4407329faf50c082
+/Users/xutianhao/Desktop/hw/src/Horn/Nano/Nano.hs:
+  hash: 0b8a1794097decb598126b03c5beab36defbebe1cf5efcc7e7dcebca7dc2fd69
+/Users/xutianhao/Desktop/hw/horn.cabal:
+  hash: 4345ff7e84a15d8de45d0fcc9dc7d0c16baf6341e8c800fcb425ac964b4cfd16
+/Users/xutianhao/Desktop/hw/README.md:
+  hash: e2d27d6cd1247f54fb2b0f3f0770c20274714a9183c6e8ebacc7cf03b8b14848
+/Users/xutianhao/Desktop/hw/src/Horn/Fixpoint/Fixpoint.hs:
+  hash: 8079ba2e64a995337ff0b02bd4eae12ed8a23983f54eed7ecb189857a971d55d
+/Users/xutianhao/Desktop/hw/src/Horn/HornVCs/HornVCs.hs:
+  hash: b5731cd0e80a20adb8ced29bba4c065c8535f9ff7c68b0cbd34e3cca710503ab
+/Users/xutianhao/Desktop/hw/src/Horn/Logic/Clauses.hs:
+  hash: 8c4a4faff3e0d5d7da2aaf82ba01e7ea54daa0d137a28dc2fb2baa5565008870
+/Users/xutianhao/Desktop/hw/src/Horn/Bindings/Z3.hs:
+  hash: 3bad928bdc23e5f4180110c753db4420af175ebfaa31ee53f1c6c6f353798b6a
